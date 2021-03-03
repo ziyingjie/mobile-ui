@@ -1,10 +1,5 @@
 # tuitui-ui样式库
 
-#### 项目介绍
-tuitui-ui，由推推科技发布的UI样式框架。欢迎关注推推优品，回复“ui”即可获得项目的预览地址。
-
-![](http://ui.tuituitech.com/demo/img/modal-test.jpg)
-
 #### 项目使用方式
 一、安装Node.js依赖，推荐8.16.0版本。
 
